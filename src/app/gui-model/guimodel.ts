@@ -451,8 +451,8 @@ export class GuiModel {
                         },
                         {
                             "type": "list",
-                            "icon": "fa-check",
-                            "color": "alizarin",
+                            "icon": "fa-user",
+                            "color": "blue",
                             "search": true,
                             "url": "/activity/:activityKey/friend",
                             "form": {
